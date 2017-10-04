@@ -1,8 +1,6 @@
 # How Prepared is your City for a Natural Disaster? {#Prepared?}
 
-#### Keywords
 
-yaba, daba, do
 
 ## Natural Disasters
 
@@ -10,20 +8,19 @@ As we have recently seen in the United States, natural disasters can cause loss 
 
 ## Criteria
 
-Natural disasters require both citizen and government cooperation to reduce loss of life and damage to infrastructure. 
-1.	Identification of danger zone for certain natural disasters (low elevation, near fault line, near landslides, near coastal region, etc.)
-2.	Determine regional emergency responder requirement
-3.	Local utility’s emergency preparation
-4.	Identification of critical infrastructure and resiliency
-5.	Time to evacuate impacted danger zones
-6.	Location of stored food, water, and supplies
+Natural disasters require both citizen and government cooperation to reduce loss of life and damage to infrastructure. Although natural disasters are notoriously difficult to predict, there may be methods that can assist with either prediction of natural disasters or increasing response time once a disaster has been correctly identified. These steps would have to be region specific, but this pilot study will focus on the City of Los Angeles.  
+
+Prediction Improvement
+
+Improving the ability to predict natural disasters is the first line of defense for a city's preperation. The expansion of monitoring equipment will be the primary information source for this model. Monitoring equipment would include: 1) seismic monitoring equipment along faultlines; 2) wind and ocean monitoring for tsunami predictions; 3) temperature and humidity (lack of) gauges to predict forest fires; and 4) weather and surface water gauges to predict flash floods. Predicitve analytics will utilize this data to develop models (lead by experts in climatology, geology, oceanography, hydrology, and engineering) to predict and track these disasters, and determine the areas that would be severely affected. 
+
+Response Improvement
+
+The main challenge lies with the ability to manage these large data sets, process and decipher this data, and transmit this information to the masses when cellular, power, and internet may all be out of service. 
 
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+
 
 ## Limitations and Measurements
 
-There are many considerations that are required to determine a City’s natural disaster preparation. The items listed above only account for a small percentage or critical information. This study is intended to determine Cities’ preparation efforts as well as the general public. The limitation foreseen in this study is the natural disaster itself. We can not determine how severe the natural disasters can be, but preparation levels is a criteria that can be measured. 
+There are many considerations that are required to determine a City’s natural disaster preparation. The items listed above only account for a small percentage of critical information. This study is intended to determine Cities’ preparation efforts as well as the general public's ability to correctly react to a natrual disaster. The limitation foreseen in this study is the natural disaster itself. We can not determine how severe the natural disasters can be, but preparation levels is a criteria that can be measured. 
