@@ -1,4 +1,4 @@
-###Natural Disasters
+Natural Disasters
 
 As we have recently seen in the United States, natural disasters can cause loss of life and immense infrastructure damage. If a natural disaster were to happen in your city, how well prepared is the local government to mitigate for this? How long would it take to evacuate the danger zone? This study would evaluate how prepared a City and its citizens are for a natural disasters, and provide tools to utilities, first responders, and government agencies to improve reaction to natural disasters.
 
