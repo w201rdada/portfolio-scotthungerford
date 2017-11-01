@@ -4,15 +4,15 @@
 
 ## Natural Disasters
 
-As we have recently seen in the United States, natural disasters can cause loss of life and immense infrastructure damage. If a natural disaster were to happen in your city, how well prepared is the local government to mitigate for this? How long would it take to evacuate the danger zone? This study would evaluate how prepared a City and its citizens are for a natural disasters, and what steps could be taken to increase preparation. 
+As we have recently seen in the United States, natural disasters can cause loss of life and immense infrastructure damage. If a natural disaster were to happen in your city, how well prepared would the local government be to mitigate the damages? How long would it take to evacuate the danger zone? This study evaluates how prepared a city (in this case, Los Angeles) and its citizens are for a natural disasters and what steps could be taken to increase preparation, potentially saving lives in an actual disaster situation. 
 
 ## Criteria
 
-Natural disasters require both citizen and government cooperation to reduce loss of life and damage to infrastructure. Although natural disasters are notoriously difficult to predict, there may be methods that can assist with either prediction of natural disasters or increasing response time once a disaster has been correctly identified. These steps would have to be region specific, but this pilot study will focus on the City of Los Angeles.  
+Natural disasters require citizen and government cooperation to reduce loss of life and damage to infrastructure. Although natural disasters are notoriously difficult to predict, there are methods that can assist with the prediction of natural disasters and reducing the time to response once a disaster has been identified. These steps would have to be region specific, but this pilot study will focus on the City of Los Angeles.  
 
 Prediction Improvement
 
-Improving the ability to predict natural disasters is the first line of defense for a city's preperation. The expansion of monitoring equipment will be the primary information source for this model. Monitoring equipment would include: 1) seismic monitoring equipment along faultlines; 2) wind and ocean monitoring for tsunami predictions; 3) temperature and humidity (lack of) gauges to predict forest fires; and 4) weather and surface water gauges to predict flash floods. Predicitve analytics will utilize this data to develop models (lead by experts in climatology, geology, oceanography, hydrology, and engineering) to predict and track these disasters, and determine the areas that would be severely affected. 
+Improving the ability to predict natural disasters is the first line of defense for a city's preperation. The expansion of monitoring equipment will be the primary information source for this model. Monitoring equipment includes: 1) seismic monitoring equipment along faultlines; 2) wind and ocean monitoring for tsunami predictions; 3) temperature and humidity gauges to predict forest fires; and 4) weather and surface water gauges to predict flash floods. Predicitve analytics will utilize this data to develop models (lead by experts in climatology, geology, oceanography, hydrology, and engineering) to predict and track these disasters and determine the areas that would be severely affected. 
 
 Response Improvement
 
@@ -23,4 +23,4 @@ The main challenge lies with the ability to manage these large data sets, proces
 
 ## Limitations and Measurements
 
-There are many considerations that are required to determine a City’s natural disaster preparation. The items listed above only account for a small percentage of critical information. This study is intended to determine Cities’ preparation efforts as well as the general public's ability to correctly react to a natrual disaster. The limitation foreseen in this study is the natural disaster itself. We can not determine how severe the natural disasters can be, but preparation levels is a criteria that can be measured. 
+Many factors are required to predict a city’s natural disaster preparation. The items listed above only account for a small percentage of the critical information. This study is intended to determine Los Angeles' preparation efforts as well as the general public's ability to correctly react to a natural disaster. The limitation foreseen in this study is the natural disaster itself. We can not determine how severe a natural disaster will be, but we can measure preparation levels. 
