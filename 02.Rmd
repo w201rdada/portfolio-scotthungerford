@@ -1,14 +1,14 @@
-Title: Making Grocery Shopping Easy
+#Title: Making Grocery Shopping Easy
 
-Beginning
+#Beginning
 The Making Grocery Shopping Easy application will assist users in finding the easiest and/or most affordable options in purchasing groceries. Utilizing the user’s location, the application will determine the grocery stores near the user (or around a user inputted site) and the item availability at each store. The application will then provide recommendations on which items should be purchased at each store. 
 The user will first select items they would like to purchase, either through a pre-determined recipe or manual request. 
 
-Middle
+#Middle
 There will be a database established that contains all grocery items, sizes, and availability. An algorithm will be developed to best determine the user requirements. 
 The application will retrieve the item price data by one of the following three methods: 1) directly from cooperating stores; 2) published sale ads; and 3) multiple users input. The user location data will first be manually input by the user. The nearby store data will utilize Google Maps to determine stores within a given radius. 
 The application will then determine how the user would like to proceed with shopping, and if they are willing to shop at multiple stores to save money on the grocery bill. This will be an iterative process to determine cost savings vs. effort. The algorithm will also determine 
 
-End
+#End
 The end product will be a list of grocery store locations for the user. Among the options are alternatives that will require more effort (visiting more stores or traveling longer distances) but will result in cost savings in the user’s purchases and vice versa (visiting less stores but more expensive items). Providing the user with a variety of selections allows the user the flexibility to make efficient decisions based on their needs. 
 
