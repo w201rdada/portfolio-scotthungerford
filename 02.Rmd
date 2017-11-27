@@ -1,4 +1,4 @@
-#Title: Making Grocery Shopping Easy
+# Making Grocery Shopping Easy
 
 #Beginning
 The Making Grocery Shopping Easy application will assist users in finding the easiest and/or most affordable options in purchasing groceries. Utilizing the user’s location, the application will determine the grocery stores near the user (or around a user inputted site) and the item availability at each store. The application will then provide recommendations on which items should be purchased at each store. 
