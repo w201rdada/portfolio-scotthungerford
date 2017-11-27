@@ -29,7 +29,7 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea
 
-Natural disaster preperation can be the difference between life and death for a city's citizens. The prediction model will utilize additioanl sensors ans industry leading professional to improve prediction abilities. 
+Natural disaster preperation can be the difference between life and death for a city's citizens. The prediction model will utilize additional sensors and industry leading professional to improve prediction abilities. The sensors will gather the necessary information required for the models to provide a best estimate of where and when a natural disaster will occur. 
 
 ### Abstract of my second cool idea
 
