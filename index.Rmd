@@ -1,6 +1,6 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
+author: "Scott Hungerford"
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
@@ -35,9 +35,6 @@ Natural disaster preperation can be the difference between life and death for a 
 
 The Making Grocery Shopping easy application will provide users with options to save money and/or time with their grocery shoppping. The application will provide recommendations where to shop, and if the user is willing to visit multiple stores, a path to the most cost savings. 
   
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author {-}
 
