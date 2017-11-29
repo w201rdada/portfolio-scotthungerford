@@ -27,11 +27,11 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract of my first cool idea {-}
 
 Natural disaster preperation can be the difference between life and death for a city's citizens. The prediction model will utilize additional sensors and industry leading professional to improve prediction abilities. The sensors will gather the necessary information required for the models to provide a best estimate of where and when a natural disaster will occur. 
 
-### Abstract of my second cool idea
+### Abstract of my second cool idea {-}
 
 The Making Grocery Shopping easy application will provide users with options to save money and/or time with their grocery shoppping. The application will provide recommendations where to shop, and if the user is willing to visit multiple stores, a path to the most cost savings. 
   
